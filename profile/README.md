@@ -24,37 +24,37 @@
   <br>📌 대면/비대면 선택에 따른 맞춤 디자이너 추천
   <br>📌 신뢰할 수 있는 전문가들과의 컨설팅
   <br>
-  <img src="https://github.com/user-attachments/assets/a3d1ee87-2fc2-41a4-9cf0-e7bfa30f3b78" width="200">  
-  <img src="https://github.com/user-attachments/assets/33e42555-5b9d-4407-87b4-00878032bea8" width="200">  
+  <img src="!https://github.com/user-attachments/assets/cf0d1d5e-bf2c-4d72-a33d-e629d0f92f54" width="200">  
   <br>
 
 ## ⏰ 내가 원하는 시간, 원하는 방식으로 바로 예약!
   - 터치 몇 번으로 손쉽게 예약
   - 대면/비대면 중 원하는 방식 선택
   <br>
-  <img src="https://github.com/user-attachments/assets/60e48e90-9257-4c22-a49c-cc5057677015" width="200">
+  <img src="https://github.com/user-attachments/assets/fbdbfa0f-cab2-4856-9373-56c0648e20c2" width="200">
   <br>
 
 ## ✅ 복잡한 것들을 All 바로 
   - 가능한 시간을 자동으로 체크합니다.
   <br>
-  <img src="https://github.com/user-attachments/assets/fd69f337-06ef-46b1-aed6-34fd9e9c9316" width="200">
-  <img src="https://github.com/user-attachments/assets/ae7e4dec-92f0-4e31-a164-9b13bbe52f17" width="200">
+  <img src="!https://github.com/user-attachments/assets/823347be-61f2-411e-98d6-8e11196858de" width="200">
 <br>
 
 ## ✨ 내 스타일에 맞는 디자이너를 자동 추천!
   - 대면/비대면 선택에 따라 최적의 디자이너 리스트업
   - 프로필,  포트폴리오를 확인하고 내게 맞는 디자이너 선택
   <br>
-  <img src="https://github.com/user-attachments/assets/0a162e0b-8a60-48ac-b2d9-b7731496b16e" width="200">  
+  <img src="https://github.com/user-attachments/assets/80b92593-b08c-4044-a675-895ba30415ae" width="200">  
   <br>
+
 
 ## 💳 안전한 결제 & 예약 관리
   - 계좌이제/간편결제 지원 (페이앱 연동 가능)
   - 결제 후 예약 확정 및 변경 가능
   - 비대면 컨설팅 선택 시 구글 미트 링크 자동 생성
   <br>
-  <img src="https://github.com/user-attachments/assets/218453be-fb9f-4566-bfcc-e201a8cac655" width="200">  
+  <img src="https://github.com/user-attachments/assets/8047f98f-8187-45b8-aa5d-7d6342a5dafa" width="200">
+  <img src="!https://github.com/user-attachments/assets/9dbba19e-3671-45c9-9d49-07e5d845c1f1" width="200">  
   <br>
 
 ## 👆 완벽한 스타일링을 위한 최고의 선택 - 헤어색chill
