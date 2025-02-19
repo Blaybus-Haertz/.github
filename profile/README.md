@@ -24,7 +24,7 @@
   <br>📌 대면/비대면 선택에 따른 맞춤 디자이너 추천
   <br>📌 신뢰할 수 있는 전문가들과의 컨설팅
   <br>
-  <img src="!https://github.com/user-attachments/assets/cf0d1d5e-bf2c-4d72-a33d-e629d0f92f54" width="200">  
+  <img src="https://github.com/user-attachments/assets/cf0d1d5e-bf2c-4d72-a33d-e629d0f92f54" width="200">  
   <br>
 
 ## ⏰ 내가 원하는 시간, 원하는 방식으로 바로 예약!
@@ -37,8 +37,8 @@
 ## ✅ 복잡한 것들을 All 바로 
   - 가능한 시간을 자동으로 체크합니다.
   <br>
-  <img src="!https://github.com/user-attachments/assets/823347be-61f2-411e-98d6-8e11196858de" width="200">
-<br>
+  <img src="https://github.com/user-attachments/assets/823347be-61f2-411e-98d6-8e11196858de" width="200">
+  <br>
 
 ## ✨ 내 스타일에 맞는 디자이너를 자동 추천!
   - 대면/비대면 선택에 따라 최적의 디자이너 리스트업
@@ -54,7 +54,7 @@
   - 비대면 컨설팅 선택 시 구글 미트 링크 자동 생성
   <br>
   <img src="https://github.com/user-attachments/assets/8047f98f-8187-45b8-aa5d-7d6342a5dafa" width="200">
-  <img src="!https://github.com/user-attachments/assets/9dbba19e-3671-45c9-9d49-07e5d845c1f1" width="200">  
+  <img src="https://github.com/user-attachments/assets/9dbba19e-3671-45c9-9d49-07e5d845c1f1" width="200">  
   <br>
 
 ## 👆 완벽한 스타일링을 위한 최고의 선택 - 헤어색chill
