@@ -106,27 +106,16 @@
 
 # ❤️‍🔥 헤어색Chill 팀원 소개
 
-## 🎯 PM (Project Manager)
+## 🎯 PM (2명) 및 🎨 Designer (1명)
 
-| **[안시환](https://github.com/shwnahn)** | **[이건희](https://github.com/leegh1025)** |
-|:----------------------------------------:|:-------------------------------------:|
-| ![img_8.png](img_8.png) | <img src="https://github.com/user-attachments/assets/0be14931-7c1f-40ff-9275-041d7365e9f3" width="400"> |
-| **Leader & PM** | **PM** |
+| **[안시환](https://github.com/shwnahn)** | **[이건희](https://github.com/leegh1025)** | **송연우** |
+|:----------------------------------------:|:-------------------------------------:|:----------------------------------------:|
+| ![안시환](https://github.com/user-attachments/assets/d8700eef-f4fb-4df6-8083-eaf23dff4f26)| ![이건희](https://github.com/user-attachments/assets/56027870-cc6c-4947-ba84-c6b05fb07396)|![송연우](https://github.com/user-attachments/assets/9404ef3e-0e3d-4737-a14e-993333f94cd3)|
+| **Leader & PM** | **PM** | **Designer** |
 
 ### 팀원 역할
 - **안시환** : 팀장, 프로젝트 기획, 상담, 최종 발표 진행
 - **이건희** : 프로젝트 기획, 상담
-
----
-
-## 🎨 Designer (1명)
-
-| **송연우** |
-|:----------------------------------------:|
-| (디자이너 이미지) |
-| **UI/UX 디자인, 브랜드 디자인** |
-
-### 팀원 역할
 - **송연우** : UI/UX 디자인, PPT 제작
 
 ---
@@ -135,7 +124,7 @@
 
 | **[이지현](https://github.com/ljh130334)** | **[장지요](https://github.com/wldy4627)** |
 |:----------------------------------------:|:-------------------------------------:|
-| ![img_8.png](img_8.png) | (프론트 팀원 이미지) |
+| ![이지현](https://github.com/user-attachments/assets/932ac1ec-514b-416a-8b2b-359c2b7d1b30)| ![장지요](https://github.com/user-attachments/assets/14ae8f27-93b9-44fe-8080-8a147ab89498)|
 | **Leader & Frontend Developer** | **Frontend Developer** |
 
 ### 팀원 역할
@@ -148,7 +137,7 @@
 
 | **[김동욱](https://github.com/lian2945)** | **[김민수](https://github.com/devkev00)** | **[유승주](https://github.com/touhou09)** | **[최승호](https://github.com/chltmdgh522)** |
 |:----------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| <img src="https://github.com/user-attachments/assets/0be14931-7c1f-40ff-9275-041d7365e9f3" width="400"> | (백엔드 팀원1 이미지) | (백엔드 팀원2 이미지) | (백엔드 팀원3 이미지) |
+| ![김동욱](https://github.com/user-attachments/assets/325fc6e8-328e-41eb-810d-514a6e6b67e0)| ![김민수](https://github.com/user-attachments/assets/2497f24c-ee8d-40c1-af38-5bd930986c41)| ![유승주](https://github.com/user-attachments/assets/22f13960-2e74-412d-964a-7c5c53052a25)| ![최승호](https://github.com/user-attachments/assets/92d23704-bb2d-47ca-967e-6f3b6afebd95)|
 | **Leader & Backend Developer** | **Backend Developer** | **Backend Developer** | **Backend Developer** |
 
 ### 팀원 역할
