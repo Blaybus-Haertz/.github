@@ -10,7 +10,7 @@
  3. [주요 기능](#-기능)
  4. [개발 환경](#%EF%B8%8F-개발-환경)
  5. [시스템 아키텍처](#-시스템-아키텍처)
- 6. [데이터베이스 설계도](#-ER Diagram)
+ 6. [데이터베이스 설계도](#-데이터베이스-설계도)
  7. [기술 특이점](#-기술-특이점)
  8. [팀원 소개](#-팀원-소개)
  
@@ -138,7 +138,7 @@
 ![image](https://github.com/user-attachments/assets/8ad18949-7da0-40cb-979c-87a312fe590c)
 
 
-## ✨ ER Diagram
+## ✨ 데이터베이스 설계도
 ![image](https://github.com/user-attachments/assets/845a739e-52a1-456d-8e0d-6f6582dec331)
 
 
