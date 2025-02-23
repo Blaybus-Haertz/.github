@@ -1,5 +1,6 @@
 # ✂️ 헤어색Chill...
-![image](https://github.com/user-attachments/assets/186cc07a-365c-4ee6-85f4-428b9c107113)
+![image](https://github.com/user-attachments/assets/ddb22040-1dd7-4009-8733-7a44ea2940bb)
+
 
 
 ## 🏆 2025 블레이버스 MVP 해커톤 개발 대회 맞춤형 헤어 컨설팅 예약 서비스 
