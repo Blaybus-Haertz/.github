@@ -1,6 +1,5 @@
 # ✂️ 헤어색Chill...
-![417507766-e9067f7c-c4b5-4710-9088-a27d0907db75](https://github.com/user-attachments/assets/ed8a9d69-3a5b-4250-90ce-833a8510aab9)
-
+![1-8173dffc](https://github.com/user-attachments/assets/332e2708-da75-45b2-8778-374b8a4fd72c)
 
 
 
