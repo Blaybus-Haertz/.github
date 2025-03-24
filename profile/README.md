@@ -24,6 +24,7 @@
 
 ## ✨ 헤어색Chill의 사이트
 ##### 🏆 [사이트](https://blaybus-haertz.netlify.app/)
+##### 🏆 서버 비용 문제로 닫았습니다...
 
 
 ## ✨ 헤어색Chill의 소통 플랫폼 
